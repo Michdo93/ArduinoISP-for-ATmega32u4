@@ -1,6 +1,10 @@
 # ArduinoISP-for-ATmega32u4
 
-Using an Arduino as an ISP (In-System Programming) device means that a standard Arduino board (such as an Arduino Uno or Nano) is repurposed to serve as a programmer for other microcontrollers (e.g., ATmega chips or ATtiny devices).
+Using an ESP as an ISP (In-System Programming) device means that a standard ESP32 board (such as an ESP32-C3) is repurposed to serve as a programmer for other microcontrollers (e.g., ATmega chips or ATtiny devices).
+
+## Wiring
+
+
 
 ## Usage
 
